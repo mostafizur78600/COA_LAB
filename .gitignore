@@ -1,7 +1,9 @@
 *.exe
 *.map
 *.obj
+*.td
 
 *.EXE
 *.MAP
 *.OBJ
+*.TD
