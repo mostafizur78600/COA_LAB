@@ -63,7 +63,7 @@
               add si,1
 
               mov dx,0
-
+ 
               inc digit
               cmp ax,0
               jnz L2
